@@ -22,13 +22,15 @@ To install and run the project locally, follow these steps:
    git clone https://github.com/Nouki2002/TreeGuardians.git
    
 2. Navigate to the project directory:
-cd TreeGuardians
+    ```bash
+    cd TreeGuardians
 3. Install the dependencies:
-npm install
+    ```bash
+     npm install
 4. Start the development server:
-npm start
-
-
+    ```bash
+    npm start
+    
 ## Usage
 Once the development server is running, open your browser and navigate to http://localhost:3000 to access the application.
 
